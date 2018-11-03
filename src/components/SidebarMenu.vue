@@ -25,7 +25,7 @@ export default {
   props: ["menu"],
   data() {
     return {
-      isCollapsed: false,
+      isCollapsed: true,
       mobileItem: null,
       mobileItemPos: 0
     }
